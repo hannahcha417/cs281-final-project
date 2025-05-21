@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Darnell Carpenter",
+    "race": "Black",
+    "gender": "Male"
+  },
+  {
+    "name": "Jermaine Jackson",
+    "race": "Black",
+    "gender": "Male"
+  },
+  {
+    "name": "Ebony Fox",
+    "race": "Black",
+    "gender": "Female"
+  },
+  {
+    "name": "Lakisha Burke",
+    "race": "Black",
+    "gender": "Female"
+  },
+  {
+    "name": "Alan Chen",
+    "race": "Asian/Pacific Islander",
+    "gender": "Male"
+  },
+  {
+    "name": "David Wang",
+    "race": "Asian/Pacific Islander",
+    "gender": "Male"
+  },
+  {
+    "name": "Grace Yang",
+    "race": "Asian/Pacific Islander",
+    "gender": "Female"
+  },
+  {
+    "name": "Cecilia Nguyen",
+    "race": "Asian/Pacific Islander",
+    "gender": "Female"
+  },
+  {
+    "name": "John Ryan",
+    "race": "White",
+    "gender": "Male"
+  },
+  {
+    "name": "Richard Meyer",
+    "race": "White",
+    "gender": "Male"
+  },
+  {
+    "name": "Mary Meyer",
+    "race": "White",
+    "gender": "Female"
+  },
+  {
+    "name": "Mary Olson",
+    "race": "White",
+    "gender": "Female"
+  },
+  {
+    "name": "Alejandro Garcia",
+    "race": "Latino/a",
+    "gender": "Male"
+  },
+  {
+    "name": "Hector Hernandez",
+    "race": "Latino/a",
+    "gender": "Male"
+  },
+  {
+    "name": "Guadalupe Gonzalez",
+    "race": "Latino/a",
+    "gender": "Female"
+  },
+  {
+    "name": "Guadalupe Perez",
+    "race": "Latino/a",
+    "gender": "Female"
+  }
+]
